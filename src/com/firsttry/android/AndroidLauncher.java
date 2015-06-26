@@ -13,13 +13,12 @@ public class AndroidLauncher extends AndroidApplication {
 		AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
 		initialize(new FirstTryMainClass(), config);
 		
-		// comment 
 		
 		
 		
 		
 		
-		// fooo
+		// foooxdhdshgfdgjdfgjh
 		
 		
 		
